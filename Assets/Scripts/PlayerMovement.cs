@@ -9,8 +9,8 @@ public class PlayerMovement : MonoBehaviour
     public Vector3 respawnPoint;
 
     private float horizontal;
-    private float speed = 12f;
-    private float jumpingPower = 32f;
+    private float speed = 8f;
+    private float jumpingPower = 16f;
     private bool isFacingRight = true;
 
     /*void Update()
