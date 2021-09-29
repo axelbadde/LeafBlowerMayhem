@@ -13,7 +13,7 @@ public class PlayerMovement : MonoBehaviour
     private float jumpingPower = 16f;
     private bool isFacingRight = true;
 
-    void Update()
+    /*void Update()
     {
         if (!isFacingRight && horizontal > 0f)
         {
@@ -24,6 +24,7 @@ public class PlayerMovement : MonoBehaviour
             Flip();
         }
     }
+    */
 
     private void FixedUpdate()
     {
