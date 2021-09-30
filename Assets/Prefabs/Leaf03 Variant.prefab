@@ -9,7 +9,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2877611651924985196, guid: a4b8ac73781d7df48aa8806f0d7d1b8c, type: 3}
       propertyPath: m_Name
-      value: Leaf03
+      value: Leaf03 Variant
       objectReference: {fileID: 0}
     - target: {fileID: 2877611651924985200, guid: a4b8ac73781d7df48aa8806f0d7d1b8c, type: 3}
       propertyPath: m_Sprite
@@ -58,6 +58,22 @@ PrefabInstance:
     - target: {fileID: 2877611651924985201, guid: a4b8ac73781d7df48aa8806f0d7d1b8c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2877611651924985202, guid: a4b8ac73781d7df48aa8806f0d7d1b8c, type: 3}
+      propertyPath: m_Size.x
+      value: 0.7053224
+      objectReference: {fileID: 0}
+    - target: {fileID: 2877611651924985202, guid: a4b8ac73781d7df48aa8806f0d7d1b8c, type: 3}
+      propertyPath: m_Size.y
+      value: 0.9659531
+      objectReference: {fileID: 0}
+    - target: {fileID: 2877611651924985202, guid: a4b8ac73781d7df48aa8806f0d7d1b8c, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.042283714
+      objectReference: {fileID: 0}
+    - target: {fileID: 2877611651924985202, guid: a4b8ac73781d7df48aa8806f0d7d1b8c, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.08388436
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a4b8ac73781d7df48aa8806f0d7d1b8c, type: 3}
